@@ -1,4 +1,4 @@
-# Power-Sync-A.I
+# A.I Syndesoy
 -This project is about a mobile app that allows users to monitor the daily kWh(kilowatt) in real-time, implimenting revolutionary A.I technology.
 ADDITIONAL FEATURES
   *Changes light according to environment using A.I powered technology.
